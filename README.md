@@ -1,6 +1,6 @@
 Viktorija Hadzieva 226081
 
-2.'/c/Users/user/Downloads/Untitled Diagram.drawio (3).png'
+2.![Untitled Diagram drawio (3)](https://github.com/Victori122/SI_lab2_226081/assets/165795358/a193494d-65ee-4d60-bbe8-09cca7f2b20c)
 
 3.Цикломатската комплексност на кодот е 10, ја добив со формулата P+1,каде
 Р е бројот на предикатно јазли.Во овој случај бројот на предиканти јазли е 9,
